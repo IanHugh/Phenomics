@@ -1,6 +1,3 @@
-# Phenomics
-Weekly and monthly data of Journal Phenomics
-
 # Journal *Phenomics*
 
   #### Latest Update: 2025-10-26 Sun
