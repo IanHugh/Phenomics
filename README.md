@@ -1,6 +1,6 @@
 # Journal *Phenomics*
 
-  #### Latest Update: 2025-10-26 Sun
+  #### Latest Update: 2025-11-16 Sun
 
 ## *Phenomics* webpage 
 
